@@ -1,0 +1,31 @@
+
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
+/* soft background and readable font */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f4f9;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+/* styled container to center content */
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+/* headers effect */
+h1 {
+  color: #2a2a72;
+  margin-bottom: 15px;
+}
+/* Style paragraphs for better readability */
+p {
+  margin-bottom: 10px;
+}
